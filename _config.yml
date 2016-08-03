@@ -1,4 +1,3 @@
-layout_spectrum: 0.5470248502679169
 typography_spectrum: 0.6364259384572506
 color:
   brandStrength: 0.6872336529195309
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.5470248502679169
 name: Nisyan
 title: Never forget
+description: Never
